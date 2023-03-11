@@ -1,6 +1,6 @@
 # [UP School & Google Developers Machine Learning Program](https://www.upschool.io/en/google-ml-program%C4%B1)
 
-The program was initiated by UP School in partnership with Google Developers.
+The program has been initiated by UP School in partnership with Google Developers on 15 July 2022.
 
 ## What does the program include?
 
