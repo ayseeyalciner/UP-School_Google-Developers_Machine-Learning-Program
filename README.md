@@ -29,7 +29,7 @@ The program has been initiated by UP School in partnership with Google Developer
 ## Projects
 
 * **Prediction of the Different Progressive Levels of Alzheimer's Disease**
-* **Skin Cancer Classification**
+* [**Skin Cancer Classification**](https://github.com/ayseeyalciner/UP-School_Google-Developers_Machine-Learning-Program/tree/main/Capstone-Project)
 
 ## Exams
 
