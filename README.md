@@ -29,6 +29,7 @@ The program has been initiated by UP School in partnership with Google Developer
 ## Projects
 
 * **Prediction of the Different Progressive Levels of Alzheimer's Disease**
+* **Skin Cancer Classification**
 
 ## Exams
 
