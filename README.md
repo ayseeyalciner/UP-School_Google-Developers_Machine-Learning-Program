@@ -37,6 +37,6 @@ The program has been initiated by UP School in partnership with Google Developer
 
 ## Certifications
 
-* [_TensorFlow Developer Certificate, TensorFlow, February 2022_](https://www.credential.net/7ed86f8c-9adf-4275-83b0-a86b7df168b6)
+* [_TensorFlow Developer Certificate, TensorFlow, February 2023_](https://www.credential.net/7ed86f8c-9adf-4275-83b0-a86b7df168b6)
 * [_TensorFlow Developer Professional Certificate Program, Coursera, December 2022_](https://www.coursera.org/account/accomplishments/specialization/certificate/4AA8T9H5WQPL)
 * [_Deep Learning Specialization, Coursera, December 2022_](https://www.coursera.org/account/accomplishments/specialization/certificate/K5V4QA26C8YS)
