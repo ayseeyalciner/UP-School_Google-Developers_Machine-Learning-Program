@@ -13,12 +13,11 @@ The program has been initiated by UP School in partnership with Google Developer
   
 * **1 Hour Self-Confidence Training Per Week**
 
-  * Trainings to gain soft skills such as **CV & interview preparation**
+  * Trainings to gain soft skills such as **_CV & interview preparation_**
   
 * **Mentor Support**
 
   * Mentoring from an UP School Alumni
-  * Meetings with mentors working for reputable companies
   
 * **Community Support**
 
